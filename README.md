@@ -4,8 +4,6 @@ Certainly! Here's a README template for your GitHub project:
 
 # Fresh Beer Near Me 🍻
 
-![Project Banner or Logo if any](link_to_banner_or_logo)
-
 ## Project ID
 CSIT-23-S2-10
 
@@ -57,8 +55,3 @@ Fresh Beer Near Me is a mobile beer discovery app, designed to help beer drinker
    npm start
    ```
 
-## Contributing
-We welcome contributions! Please see our [CONTRIBUTING.md](link_to_contributing_guide) for guidelines.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](link_to_license_file) file for details.
